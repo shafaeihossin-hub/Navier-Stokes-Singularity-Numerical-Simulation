@@ -23,5 +23,11 @@ The core of this project is a high-precision numerical solver designed to track 
 - Scientific Context: Providing computational support for the existence of blow-up solutions in the Navier-Stokes equations (Millennium Prize Problem).
 
 ---
+
+## 📩 Contact
+For academic inquiries or collaboration regarding this simulation, feel free to reach out:
+
+Email: [shafaeihossein0@gmail.com](mailto:shafaeihossein0@gmail.com)
+
 Author: Hossein Shafaei  
 Field: Computational Fluid Dynamics / Mathematical Physics
