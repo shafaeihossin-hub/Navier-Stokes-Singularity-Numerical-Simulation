@@ -1,5 +1,4 @@
-# Navier-Stokes-Singularity-Numerical-Simulation
-# Navier-Stokes Singularity Numerical Analysis
+# Navier-Stokes Singularitys- Numerical Analysis
 ### Computational Investigation into Finite-Time Blow-up in 3D Incompressible Flows
 
 This repository contains the numerical implementation and research paper focused on the regularity problem of the 3D Navier-Stokes equations. 
