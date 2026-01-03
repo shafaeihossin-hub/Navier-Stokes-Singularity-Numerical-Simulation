@@ -5,7 +5,7 @@
 This repository contains the numerical implementation and research paper focused on the regularity problem of the 3D Navier-Stokes equations.
 
 ## 📄 Research Paper
-- [Download Full Mathematical Analysis (PDF)](./your-file-name.pdf) 
+- [Download Full Mathematical Analysis (PDF)](Navier_Stokes_Singularity_Numerical_Research_Hossein_Shafaei.pdf) 
 *(Note: Replace 'your-file-name.pdf' with the actual file name in your repo)*
 
 ## 🔬 Project Overview
