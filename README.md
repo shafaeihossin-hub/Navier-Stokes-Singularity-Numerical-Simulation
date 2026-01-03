@@ -1,15 +1,15 @@
 # Navier-Stokes Singularity Numerical Analysis
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--5031--0982-green)](https://orcid.org/0009-0002-5031-0982)
 ### Computational Investigation into Finite-Time Blow-up in 3D Incompressible Flows
 
 This repository contains the numerical implementation and research paper focused on the regularity problem of the 3D Navier-Stokes equations.
 
 ## 📄 Research Paper
-[Read the full Mathematical Analysis here](./Navier_Stokes_Singularity_Numerical_Research_Hossein_Shafaei.pdf)
+- [Download Full Mathematical Analysis (PDF)](./your-file-name.pdf) 
+*(Note: Replace 'your-file-name.pdf' with the actual file name in your repo)*
 
 ## 🔬 Project Overview
 The core of this project is a high-precision numerical solver designed to track the growth of maximum vorticity and energy density. By simulating high-energy vortex pair interactions using a fourth-order Runge-Kutta (RK4) scheme, this study identifies a catastrophic breakdown of solution smoothness at $T=0.0010$ seconds.
-
-
 
 ## 🛠 Technical Specifications
 - Core Algorithm: 4th Order Runge-Kutta (RK4) integration method.
@@ -24,10 +24,11 @@ The core of this project is a high-precision numerical solver designed to track 
 
 ---
 
-## 📩 Contact
-For academic inquiries or collaboration regarding this simulation, feel free to reach out:
+## 📩 Contact & Identification
+Author: Hossein Shafaei [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--5031--0982-green)](https://orcid.org/0009-0002-5031-0982)  
+Role: Independent Researcher | Lead Researcher  
+Email: shafaeihossein0@gmail.com  
+Field: Computational Fluid Dynamics / Mathematical Physics  
 
-Email: [shafaeihossein0@gmail.com](mailto:shafaeihossein0@gmail.com)
-
-Author: Hossein Shafaei  
-Field: Computational Fluid Dynamics / Mathematical Physics
+---
+*Verified Researcher on [ORCID](https://orcid.org/0009-0002-5031-0982)*
