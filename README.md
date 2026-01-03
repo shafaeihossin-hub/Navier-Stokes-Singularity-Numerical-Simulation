@@ -2,11 +2,10 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--5031--0982-green)](https://orcid.org/0009-0002-5031-0982)
 ### Computational Investigation into Finite-Time Blow-up in 3D Incompressible Flows
 
-This repository contains the numerical implementation and research paper focused on the regularity problem of the 3D Navier-Stokes equations.
+This repository contains the numerical implementation and the full research paper focusing on the regularity problem of the 3D Navier-Stokes equations.
 
 ## 📄 Research Paper
-- [Download Full Mathematical Analysis (PDF)](Navier_Stokes_Singularity_Numerical_Research_Hossein_Shafaei.pdf) 
-*(Note: Replace 'your-file-name.pdf' with the actual file name in your repo)*
+- Read the full study: [Navier_Stokes_Singularity_Numerical_Research_Hossein_Shafaei.pdf](./Navier_Stokes_Singularity_Numerical_Research_Hossein_Shafaei.pdf)
 
 ## 🔬 Project Overview
 The core of this project is a high-precision numerical solver designed to track the growth of maximum vorticity and energy density. By simulating high-energy vortex pair interactions using a fourth-order Runge-Kutta (RK4) scheme, this study identifies a catastrophic breakdown of solution smoothness at $T=0.0010$ seconds.
